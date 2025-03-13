@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Lobster&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Ponomar&display=swap');
+
+body {
+    max-width: 1920px;
+    background: blue;
+    font-family: "Lobster", sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: red;
+    font-size: 72px;
+    text-align: center;
+    background: black;
+}
+
+img {
+    width: 300px;
+}
